@@ -1,4 +1,4 @@
 # rishi
 this is my first git repository
 <br>
-Author - Hu chu Rishi Mulani
+Author - Hu chu Rishi Jitendra Mulani
